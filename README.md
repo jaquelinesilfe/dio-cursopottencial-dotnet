@@ -1,4 +1,4 @@
-# dio-cursoponttencial-dotnet
+# dio-cursopottencial-dotnet
 
 ## Repositório do curso da Dio - Pottencial .NET Developer
 
