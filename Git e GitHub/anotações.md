@@ -1,8 +1,7 @@
 ## Comandos Git
 
--git init
--git remote add origin
-
+- git init
+- git remote add origin
 - git branch -M main
 - git add .
 - git add README.md
